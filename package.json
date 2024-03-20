@@ -1,0 +1,27 @@
+{
+  "name": "monster-jwt-decode-verify",
+  "version": "1.0.1",
+  "description": "Utility library for decoding and verifying JWTs.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "jwt",
+    "decode",
+    "verify",
+    "jsonwebtoken"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cothernus/monster-jwt-decode-verify"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "jsonwebtoken": "^8.5.1",
+    "debug": "^4.3.4",
+    "console": "^0.7.2",
+    "typescript": "^5.4.2"
+  }
+}
